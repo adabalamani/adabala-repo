@@ -1,0 +1,14 @@
+1.git init
+2.git status
+3.ls
+4.git add .
+5.git config -- global user.name
+6.[A[A[B[Bgit config --global user,email
+7.git clone htttp
+8.touch 
+9.cat
+10.git commit -m "---"
+11.git push -u origin name
+12.git merge 
+13.git delete -d 
+14.git push origin --dlete[D[D[D[De[C[C[C[D[D[Dlete 
